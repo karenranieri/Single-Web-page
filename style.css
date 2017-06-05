@@ -1,0 +1,33 @@
+/* CSS Styles are placed in this file */
+
+background-color {
+    color:deepskyblue
+}
+
+header {
+    background-color: gray;
+}
+
+h1 {
+    color: white;
+    padding: 60px 0 20px 20px;
+    margin: 0;
+}
+
+    p {
+        font-family: cursive text-align:center;
+        font-size: 25px;
+        color: red;
+    }
+.container{
+    width:500px;
+    margin:auto;
+}
+.dark-bg {
+  background-color: #353842;
+  color: #fff;
+}
+
+.text-center {
+  text-align: center;
+}
